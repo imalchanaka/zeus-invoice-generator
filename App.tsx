@@ -430,7 +430,7 @@ export default function App() {
 
         <div className="text-center mb-4">
           <h2 className="text-4xl font-light tracking-widest text-gray-800">
-            INVOICE
+            INVOICEDD
           </h2>
         </div>
 
