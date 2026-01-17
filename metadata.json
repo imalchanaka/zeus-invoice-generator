@@ -1,0 +1,6 @@
+
+{
+  "name": "Zeus Invoice Generator",
+  "description": "Professional invoice generator for Zeus Technologies. Features automatic sequencing, draft saving, and optimized print layouts.",
+  "requestFramePermissions": []
+}
